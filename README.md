@@ -1,4 +1,5 @@
-# Hi, I'm Avinash Raj 
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm96dm5qYXA3ZzBnNXVpMXZnazM4cmN3d3Z4MXFidXFmanFpMjhsNiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/F9tGaJZqP4Dsw34rHb/giphy.gif" width="40"> Hi, I'm Avinash
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+Automation+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Technologies+🚀">
@@ -20,7 +21,7 @@
 ---
 
 <h2>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0d3JxZ29meDQwZWdkMDI0NDZ0OWhoamdrMXZmeDk0eGhqcmkwYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EzwHxGPqnk5cacgQ0X/giphy.gif" width="70"> Tech Stack
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0d3JxZ29meDQwZWdkMDI0NDZ0OWhoamdrMXZmeDk0eGhqcmkwYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50"> Tech Stack
 </h2>
 
 <p align="center">
