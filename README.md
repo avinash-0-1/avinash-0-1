@@ -75,8 +75,7 @@ Ranked **16th out of 150+ teams**
 ---
 
 ## 🐍 Contributions 
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
