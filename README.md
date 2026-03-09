@@ -6,10 +6,10 @@
 
 ---
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveDhvMmNlOGh2cTBsazUyNHRkczRuMDZrbmJyMW5oanlibXc4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="60"> About Me
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveDhvMmNlOGh2cTBsazUyNHRkczRuMDZrbmJyMW5oanlibXc4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="65"> About Me
 </h2>
 💻 Computer Science Engineering Student
 
