@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Avinash Raj
+# Hi, I'm Avinash Raj 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+Automation+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Technologies+🚀">
@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-💻 Computer Science Engineering Student (2022–2026)
-🏫 RVS College of Engineering & Technology
+💻 Computer Science Engineering Student
 
 ⚡ Passionate about building **MERN stack applications and AI-powered systems**.
 🤖 Exploring **AI integrations, backend automation, and scalable architectures**.
@@ -20,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,git,github,html,css,bootstrap,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,git,github,postman,html,tailwindcss,css,bootstrap,mysql,vscode"/>
 
 </p>
 
@@ -55,21 +54,27 @@ Ranked **16th out of 150+ teams**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats <p align="center">
+<img src="https://komarev.com/ghpvc/?username=avinash-0-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avinash-0-1&show_icons=true&theme=tokyonight"/>
+<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash-0-1&theme=aura_dark"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-0-1&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=avinash-0-1&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-0-1&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-0-1&theme=aura_dark"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contributions 
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -77,6 +82,6 @@ Ranked **16th out of 150+ teams**
 
 ## 📫 Connect With Me
 
-📧 Email: **[avinashraj0918@gmail.com](mailto:avinashraj0918@gmail.com)**
-🌐 Portfolio: https://port18.netlify.app
-💼 LinkedIn: Add your LinkedIn here
+📧 Email: **[avinashraj0918@gmail.com](mailto:avinashraj0918@gmail.com)**<br>
+🌐 Portfolio: https://port18.netlify.app<br>
+💼 LinkedIn: https://www.linkedin.com/in/avinash-raj-99692425a/<br>
