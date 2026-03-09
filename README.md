@@ -1,75 +1,82 @@
-# 👋 Hi there, I'm Avinash Raj
+# 👋 Hi, I'm Avinash Raj
 
-💻 Full Stack Developer (MERN Stack)  
-🤖 Exploring AI Automation & Intelligent Applications  
-🚀 Passionate about building scalable web applications and innovative tech solutions.
-
-I'm a Computer Science Engineering student at **RVS College of Engineering & Technology (2022–2026)**.  
-I enjoy building full-stack applications, experimenting with AI integrations, and learning modern backend systems.
-
-Currently exploring **AI-powered apps, backend automation, and cloud deployment.**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+Automation+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Technologies+🚀">
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-- Building **AI-powered web applications**
-- Improving **MERN stack architecture**
-- Learning **AI automation workflows**
-- Exploring **cloud deployment & scalable systems**
+💻 Computer Science Engineering Student (2022–2026)
+🏫 RVS College of Engineering & Technology
+
+⚡ Passionate about building **MERN stack applications and AI-powered systems**.
+🤖 Exploring **AI integrations, backend automation, and scalable architectures**.
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🧰 Tech Stack
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,git,github,html,css,bootstrap,mysql,vscode"/>
+
+</p>
 
 ---
 
 ## 🛠 Featured Projects
 
 ### 🤖 AI Chat Companion
-AI-powered chatbot web application with **Google Gemini API**, supporting image/PDF uploads, chat history, and responsive UI.
+
+AI-powered chatbot with **Google Gemini API**, supporting PDF/image uploads, chat history, and responsive UI.
 
 ### 🎬 Movie Recommender System
-Content-based recommendation system using **cosine similarity and TMDB dataset**, built with Python, Flask, and data preprocessing using Pandas & NumPy.
+
+Content-based movie recommendation system using **cosine similarity + TMDB dataset**.
 
 ### 🗳 Student Voting Web App
-A secure digital voting platform for students built with **Node.js, Express, MongoDB, and JWT authentication**.
+
+Secure digital voting system using **Node.js, Express.js, MongoDB, and JWT authentication**.
 
 ---
 
 ## 🏆 Achievements
 
-🏅 **HackHorizon Hackathon (2025)**  
-Ranked **16th out of 150+ teams**
-
-🏅 **Innovate X 4.0 National Hackathon (2025)**  
+🥇 **Innovate X 4.0 National Hackathon**
 Secured **4th place out of 120+ teams**
 
-🏅 **Robo Soccer & Robo Race (2023)**  
-3rd place in Robo Soccer and 2nd place in Robo Race
+🥈 **HackHorizon Hackathon**
+Ranked **16th out of 150+ teams**
+
+🏎 **Robo Soccer & Robo Race Competition**
+2nd & 3rd place for designing autonomous robots
 
 ---
 
 ## 📊 GitHub Stats
 
-![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinash-0-1&show_icons=true)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash-0-1)
+<img src="https://github-readme-stats.vercel.app/api?username=avinash-0-1&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-0-1&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-0-1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: **avinashraj0918@gmail.com**  
-💼 Portfolio: https://port18.netlify.app/#certification  
+📧 Email: **[avinashraj0918@gmail.com](mailto:avinashraj0918@gmail.com)**
+🌐 Portfolio: https://port18.netlify.app
+💼 LinkedIn: Add your LinkedIn here
