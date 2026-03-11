@@ -12,11 +12,9 @@
 
 <h2> About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveDhvMmNlOGh2cTBsazUyNHRkczRuMDZrbmJyMW5oanlibXc4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="65">
 </h2>
-💻 Computer Science Engineering Student
 
-
-⚡ Passionate about building **MERN stack applications and AI-powered systems**.
-🤖 Exploring **AI integrations, backend automation, and scalable architectures**.
+Hi, I'm Avinash Raj! I am a 💻Computer Science engineering student. I am passionate about building scalable web applications and exploring the intersection of web development and artificial intelligence. <br><br>
+**🛠️ What I do Full-Stack Development:** <br> I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js). I use these technologies to build responsive and robust applications. AI/ML Integration: I enjoy integrating machine learning models and LLMs into practical tools. My projects include AI-powered movie recommendation systems and smart chatbots. Backend & Automation: I have experience designing RESTful APIs. I also work with Node.js and n8n to create backend automation workflows. 
 
 ---
 
