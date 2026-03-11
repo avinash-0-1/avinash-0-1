@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveDhvMmNlOGh2cTBsazUyNHRkczRuMDZrbmJyMW5oanlibXc4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="65"> About Me
+<h2> About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJveDhvMmNlOGh2cTBsazUyNHRkczRuMDZrbmJyMW5oanlibXc4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="65">
 </h2>
 💻 Computer Science Engineering Student
 
@@ -20,8 +20,8 @@
 
 ---
 
-<h2>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0d3JxZ29meDQwZWdkMDI0NDZ0OWhoamdrMXZmeDk0eGhqcmkwYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50"> Tech Stack
+<h2>Tech Stack
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0d3JxZ29meDQwZWdkMDI0NDZ0OWhoamdrMXZmeDk0eGhqcmkwYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50"> 
 </h2>
 
 <p align="center">
@@ -32,8 +32,8 @@
 
 ---
 
-<h2>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllYmV4OWQxOGZkdG5jYXE2Njg5dWhrenlnM2NjZ3cxbWV2MHZlciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.gif" width="55"> Featured Projects
+<h2>Featured Projects
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllYmV4OWQxOGZkdG5jYXE2Njg5dWhrenlnM2NjZ3cxbWV2MHZlciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CpAoNQKJRLAIDhGKST/giphy.gif" width="55"> 
 </h2>
 
 
@@ -51,7 +51,8 @@ Secure digital voting system using **Node.js, Express.js, MongoDB, and JWT authe
 
 ---
 
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm53dzd3cGcwcnBnb3R1dHE5aXk1amc2c2Y4bmo4M2U1eTR6dHlrZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AsmtNrrJwzCxsVh7fx/giphy.gif" width="40"> Achievements
+<h2>Achievements
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm53dzd3cGcwcnBnb3R1dHE5aXk1amc2c2Y4bmo4M2U1eTR6dHlrZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AsmtNrrJwzCxsVh7fx/giphy.gif" width="40"> 
 </h2>
 
 🥇 **Innovate X 4.0 National Hackathon**
@@ -65,8 +66,8 @@ Ranked **16th out of 150+ teams**
 
 ---
 
-<h2>
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> GitHub Stats
+<h2>GitHub Stats
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> 
 </h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=avinash-0-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
