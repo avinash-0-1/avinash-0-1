@@ -6,6 +6,14 @@
 </p>
 
 ---
+<!-- [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-943-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/avinash-raj-99692425a/) -->
+
+<p align="center">      
+  <img src="https://komarev.com/ghpvc/?username=avinash-0-1&label=Visitors&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/avinash-raj-99692425a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
@@ -68,7 +76,6 @@ Ranked **16th out of 150+ teams**
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> 
 </h2>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=avinash-0-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
