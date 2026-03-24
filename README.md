@@ -75,21 +75,14 @@ Ranked **16th out of 150+ teams**
 <h2>GitHub Stats
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> 
 </h2>
+
 <p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=avinash-0-1&theme=tokyonight"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-0-1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash-0-1&theme=aura_dark"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=avinash-0-1&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinash-0-1&theme=aura_dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-0-1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
